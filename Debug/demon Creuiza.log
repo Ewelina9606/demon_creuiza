@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Max\source\repos\demon Creuiza\main.cpp(84,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Max\source\repos\demon Creuiza\main.cpp(78,31): warning C4101: "stab": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Max\source\repos\demon Creuiza\main.cpp(78,16): warning C4101: "en": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Max\source\repos\demon Creuiza\main.cpp(78,27): warning C4101: "ec": lokalna zmienna, do której nie istnieje odwołanie
+  demon Creuiza.vcxproj -> C:\Users\Max\source\repos\demon Creuiza\Debug\demon Creuiza.exe
